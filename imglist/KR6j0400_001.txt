@@ -1,0 +1,4 @@
+001-0723c16	TKD 37-0259b	buddhist/K-koreana/37-tif/0200-0299/37_0259_B.TIF
+001-0723c00	T 001-0723c	buddhist/T-taisho/T20/07/T20-0723.png
+001-0724a00	T 001-0724a	buddhist/T-taisho/T20/07/T20-0724.png
+001-0724b00	T 001-0724b	buddhist/T-taisho/T20/07/T20-0724.png
