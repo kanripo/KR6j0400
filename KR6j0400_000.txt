@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 曼殊室利童子菩薩五字瑜伽法
+#+DATE: 2015-08-30 20:31:42.054509
+#+PROPERTY: JUAN 0
