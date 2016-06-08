@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:41.788972
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:03
 #+TITLE: 曼殊室利童子菩薩五字瑜伽法
 #+PROPERTY: CBETA_ID T20n1176
 #+PROPERTY: ID KR6j0400
