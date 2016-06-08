@@ -1,24 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:41.788972
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:03
 #+TITLE: 曼殊室利童子菩薩五字瑜伽法
 #+PROPERTY: CBETA_ID T20n1176
 #+PROPERTY: ID KR6j0400
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1176
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0400_T_001-0723b> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1176¶
-
- 曼殊室利童子菩薩五字瑜伽¶
+No. 1176¶
+曼殊室利童子菩薩五字瑜伽¶
 法一卷¶
 ¶
-開府儀同三司特進試鴻臚卿肅國¶
-公食邑三千戶賜紫贈司空諡大鑒¶
-正號大廣智大興善寺三藏沙門¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑒正號大廣智大興善寺三藏沙門¶
 不空奉　詔譯¶
 
 一曰𤚥(用孔雀座印如上)¶
@@ -87,7 +84,7 @@ No.1176¶
 
 菩提莊嚴成就真言曰。¶
 
-唵嚕止囉麼鼻抳鉢囉二合韈多¶
+唵嚕止囉麼鼻抳鉢囉二合󰹺多¶
 ¶
 野吽引¶
 ¶
